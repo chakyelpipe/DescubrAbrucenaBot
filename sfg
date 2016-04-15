@@ -1,5 +1,0 @@
-import telebot # Importamos las librería
- 
-TOKEN = '<183516399:AAF76KRhiV8m65m0yDup6WPoYRQ3Wu7zHqg>' # Ponemos nuestro Token generado con el @BotFather
- 
-tb = telebot.TeleBot(TOKEN) # Combinamos la declaración del Token con la función de la API
